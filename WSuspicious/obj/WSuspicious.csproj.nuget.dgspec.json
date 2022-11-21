@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\WSuspicious.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\WSuspicious.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\WSuspicious.csproj",
+        "projectName": "WSuspicious",
+        "projectPath": "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\WSuspicious.csproj",
+        "packagesPath": "C:\\Users\\parte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\parte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "ILMerge": {
+              "target": "Package",
+              "version": "[3.0.29, )"
+            },
+            "Titanium.Web.Proxy": {
+              "target": "Package",
+              "version": "[3.1.1288, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zp2eJPvSjPMO4Z+uLif4OL7aEoFYxiOiLjt3kjyIT+mx/zFawvCxHIOMeDLZiM+uQBMUoc7Z0rtIicepDNw4Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parte\\Downloads\\WSuspicious\\WSuspicious\\WSuspicious.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parte\\.nuget\\packages\\brotlisharplib\\0.3.3\\brotlisharplib.0.3.3.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\ilmerge\\3.0.29\\ilmerge.3.0.29.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\portable.bouncycastle\\1.8.5.2\\portable.bouncycastle.1.8.5.2.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\parte\\.nuget\\packages\\titanium.web.proxy\\3.1.1288\\titanium.web.proxy.3.1.1288.nupkg.sha512"
+  ],
+  "logs": []
+}

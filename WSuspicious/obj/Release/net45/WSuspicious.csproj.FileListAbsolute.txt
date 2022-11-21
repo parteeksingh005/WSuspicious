@@ -1,0 +1,16 @@
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\WSuspicious.exe.config
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\WSuspicious.exe
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\BrotliSharpLib.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\BouncyCastle.Crypto.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\System.Buffers.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\System.Memory.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\System.Threading.Tasks.Extensions.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\bin\Release\net45\Titanium.Web.Proxy.dll
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.csproj.AssemblyReference.cache
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.AssemblyInfoInputs.cache
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.AssemblyInfo.cs
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.csproj.CoreCompileInputs.cache
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.csproj.CopyComplete
+C:\Users\parte\Downloads\WSuspicious\WSuspicious\obj\Release\net45\WSuspicious.exe

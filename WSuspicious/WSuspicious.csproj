@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net45</TargetFramework>
+    <RootNamespace>WSuspicious</RootNamespace>
+    <AssemblyName>WSuspicious</AssemblyName>
+    <StartupObject>WSuspicious.Program</StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Titanium.Web.Proxy" Version="3.1.1288" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="ILMerge" Version="3.0.29" />
+  </ItemGroup>
+
+  <Target Name="ILMerge" AfterTargets="PostBuildEvent" Condition=" '$(Configuration)' == 'Release' ">
+    <!-- the ILMergePath property points to the location of ILMerge.exe console application -->
+    <Exec Command="$(ILMergeConsolePath) bin\Release\net45\WSuspicious.exe /out:WSuspicious.exe ^&#xD;&#xA;                                         bin\Release\net45\BouncyCastle.Crypto.dll ^&#xD;&#xA;                                         bin\Release\net45\BrotliSharpLib.dll ^&#xD;&#xA;                                         bin\Release\net45\System.Buffers.dll ^&#xD;&#xA;                                         bin\Release\net45\System.Memory.dll ^&#xD;&#xA;                                         bin\Release\net45\System.Runtime.CompilerServices.Unsafe.dll ^&#xD;&#xA;                                         bin\Release\net45\System.Threading.Tasks.Extensions.dll ^&#xD;&#xA;                                         bin\Release\net45\Titanium.Web.Proxy.dll" />
+  </Target>
+</Project>
